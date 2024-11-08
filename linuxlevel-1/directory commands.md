@@ -28,3 +28,17 @@ tar -cf filename.tar -/Documents (orginail files ko zip krky )
 tar -czffilename.tat.gz -/Documents (czf  lagany sy compress krny kylie) 
 
 tar -czvf filename.tar.gz -/Documnets
+
+tar -xvf filename.tar
+
+tar -xzvf filename.tar.gz
+
+.......................
+
+zip -r filname.zip ~/Documents
+unzip filename.zip
+
+# while cards
+
+rm filename?.txt (delete dublicate files)
+rm *filename.txt
