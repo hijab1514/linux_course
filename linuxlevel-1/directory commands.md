@@ -13,4 +13,13 @@ Remove Directory
   if we directly write 
   ''' cp filename /Downloads '''
   permision denied
-  
+  ''' sudo -i '''
+write password and it will take into root 
+''' cd /home/hijab/ '''
+''' cd Documnets '''
+for c # copy use command 
+''' cp filename /Downloads '''
+for # move for rename the file 
+''' mv filname filname1 '''
+
+# how to zip files
