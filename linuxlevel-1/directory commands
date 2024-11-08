@@ -23,3 +23,8 @@ for # move for rename the file
 ''' mv filname filname1 '''
 
 # how to zip files
+tar -cf filename.tar -/Documents (orginail files ko zip krky )
+
+tar -czffilename.tat.gz -/Documents (czf  lagany sy compress krny kylie) 
+
+tar -czvf filename.tar.gz -/Documnets
