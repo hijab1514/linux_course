@@ -1,0 +1,16 @@
+Remove Directory
+  home directory 
+  ''' cd ~ '''
+  # make directory
+  ''' mkdir name '''
+  #Remove Directory
+  ''' rmdir name'''
+  Blue are directories and white are files
+  ''' ls -l ''' and ''' ls-lh ''' are same commands 
+
+  # copy the file
+  in documnets we have to two files alnafi and test 2 and we want to coy in download we can't diresctly do it
+  if we directly write 
+  ''' cp filename /Downloads '''
+  permision denied
+  
