@@ -33,3 +33,25 @@ to change screen name
 ''' usermod -c "Turrab Fatima " tabi 
 if you wnat delete account along with directory 
 ''' userdel -r tabi '''
+
+## Groups 
+
+![Screenshot (51)](https://github.com/user-attachments/assets/5ec6d18b-2f34-49db-94f4-9370284fcc49)
+Two types of group 
+1. admin group
+2. user group
+   to check where the admin group is
+   in /etc/ seudos file
+   use cat function
+
+   for group id
+   cat group
+   in 'gsshadow' file all the group password are stored in encrpted form
+   # creating a Group
+   groupadd mesam
+
+   # adding user to the group
+   usermod -G mesam tabi
+
+   #Removing a user from the group
+   groupdel mesam
